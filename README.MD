@@ -8,7 +8,8 @@ AtB har utviklet et nytt API som leverer data om busstider per busstopp som skal
 
 API'et består av to endepunkter.
 
-### Busstopp - GET https://cloud.com/bus-stops
+### Busstopp - GET https://us-central1-progit-playground.cloudfunctions.net/stops
+
 Dette endepunktet returnerer en liste med busstopp bestående felter for bussstopp-id, navn, beskrivelse, informasjon om rullestolvennlighet samt geografiske koordinater.
 
 Her er et eksempel på et busstopp-objekt:
@@ -30,14 +31,14 @@ Her er et eksempel på et busstopp-objekt:
 
 ```
 
-### Passeringstider - GET http://cloud.com/passing-times
+### Passeringstider - GET https://us-central1-progit-playground.cloudfunctions.net/passingTimes
 
 Dette endepunktet returnerer en liste over passeringstider for busstoppene i Trondheim bestående av passeringstid-id, tid for passering i ISO-format, bussstopp-id som tiden gjelder for og informasjon om bussen.
 
 ```
  {
         id: "PT:1",
-        passingTime: new Date().toISOString()
+        passingTime: "2020-09-25T17:35:55+00:00"
         stopId: "ST:1",
         busInfo: {
             displayName: "Dragvoll",
