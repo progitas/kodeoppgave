@@ -47,4 +47,19 @@ Dette endepunktet returnerer en liste over passeringstider for busstoppene i Tro
     }
 ```
 
-Løsningen din skal gjøre et GET-kall til API-endepunktene, lese listene, fjerne unødvendig data og deretter sette sammen dataen på fornuftig måte slik at man enkelt kan printe en representasjon.
+Løsningen din skal gjøre et GET-kall til API-endepunktene
+## 3. Løsningen din skal:
+
+- Gjøre et HTTP kall til APIene and hente listene med data
+- Bruke dataen og sorter listene
+- Fjerne unødvendig data
+- Sette sammen dataen på fornuftig måte slik at man enkelt kan printe en representasjon.
+
+## 4. Tilleggsinformasjon og begrensninger
+
+- All cells are the same in size
+- The cell width and height is a natural number
+- The width and height is not necessarily equal in size
+
+
+You can use any programming language and libraries of choice. You do not need to solve the exercise completely, we are mainly interested in the way you approach the problem and how you chose to structure your code. If you run out of time before completing the problem you should still submit the solution! :)
