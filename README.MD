@@ -2,7 +2,7 @@
 
 ## 1. Problembeskrivelse
 
-AtB har utviklet et nytt API som leverer data om busstider per busstopp som skal legge til rette for nye sanntidstavler rundt omkring i Trondheim. Du har fått i oppdrag fra AtB å levere disse sanntidstavlene i form av en applikasjon som benytter seg av dette API'et og deretter skriver ut passeringstidene i et informativt format.
+AtB har utviklet et nytt API som leverer data om busstider per busstopp som skal legge til rette for nye sanntidstavler rundt omkring i Trondheim. Du har fått i oppdrag fra AtB å levere disse sanntidstavlene i form av en applikasjon som benytter seg av dette API'et og deretter skriver ut passeringstidene i et informativt format. Kravene fra AtB er at tavlen skal vise hvilket busstopp du er på og hvilke busser som kommer, representert ved rutenavn og rutenummner (displayName og publicCode), samt tiden den passerer stoppet i et leseslig format. 
 
 ## 2. AtB SanntidsAPI™️
 
