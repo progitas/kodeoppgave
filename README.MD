@@ -1,4 +1,4 @@
-# Progit Summer internship 2021 💻
+# Progit Consulting Neste Sommer 2021 💻
 
 ## 1. Problembeskrivelse
 
