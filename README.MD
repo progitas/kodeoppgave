@@ -1,3 +1,4 @@
+
 # Progit Consulting Neste Sommer 2021 💻
 
 ## 1. Problembeskrivelse
@@ -57,10 +58,9 @@ Løsningen din skal gjøre et GET-kall til API-endepunktene
 - Denne representasjonen skal være en rutetabell for hvert busstopp.
 
 ## 4. Tilleggsinformasjon og begrensninger
+Du står fritt til å velge programmeringsspråk og eventuelle biblioteker. For nettverkskall anbefaler vi:
 
-- All cells are the same in size
-- The cell width and height is a natural number
-- The width and height is not necessarily equal in size
+- Javascript: `fetch` (I nettleseren), `axios`(for node.js)
+- Python: `requests`
 
-
-You can use any programming language and libraries of choice. You do not need to solve the exercise completely, we are mainly interested in the way you approach the problem and how you chose to structure your code. If you run out of time before completing the problem you should still submit the solution! :)
+Det er ikke et krav at hele oppgaven må være løst, vi er hovedsakelig opptatt av hvordan du tilnærmer deg problemet og hvordan du velger å strukturere koden din. Vi oppfordrer deg til å sende inn løsningen selv om den ikke er helt ferdig innen tiden!
