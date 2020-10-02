@@ -55,7 +55,7 @@ Løsningen din skal gjøre et GET-kall til API-endepunktene
 - Sorter listene
 - Fjerne unødvendig data
 - Sette sammen dataen på fornuftig måte slik at man enkelt kan printe en representasjon.
-- Denne representasjonen skal være en rutetabell for hvert busstopp.
+- Denne representasjonen skal være en rutetabell for hvert busstopp, som beskrevet i `1. Problembeskrivelse`.
 
 ## 4. Tilleggsinformasjon og begrensninger
 Du står fritt til å velge programmeringsspråk og eventuelle biblioteker. For nettverkskall anbefaler vi:
