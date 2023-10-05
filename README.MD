@@ -9,11 +9,11 @@ AtB har utviklet et nytt API som leverer data om busstider per busstopp som skal
 
 API'et består av to endepunkter.
 
-### Busstopp - GET 
+### Busstopp - GET https://us-central1-progit-case-933a7.cloudfunctions.net/stops
 
 Dette endepunktet returnerer en liste med busstopp bestående felter for bussstopp-id, navn, beskrivelse, informasjon om rullestolvennlighet samt geografiske koordinater.
 
-Her er et eksempel på et busstopp-objekt: https://us-central1-progit-case-933a7.cloudfunctions.net/stops
+Her er et eksempel på et busstopp-objekt: 
 
 ```
 [
